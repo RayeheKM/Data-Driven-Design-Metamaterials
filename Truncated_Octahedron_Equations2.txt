@@ -1,0 +1,144 @@
+** Constraint: X1
+*Equation
+3
+N13, 1, 1.
+N5, 1, -1.
+MasterX, 1, -1.
+** Constraint: X1-Copy
+*Equation
+3
+N13, 2, 1.
+N5, 2, -1.
+MasterX, 2, -1.
+** Constraint: X2
+*Equation
+3
+N16, 1, 1.
+N6, 1, -1.
+MasterX, 1, -1.
+** Constraint: X2-Copy
+*Equation
+3
+N16, 2, 1.
+N6, 2, -1.
+MasterX, 2, -1.
+** Constraint: X3
+*Equation
+3
+N21, 1, 1.
+N9, 1, -1.
+MasterX, 1, -1.
+** Constraint: X3-Copy
+*Equation
+3
+N21, 2, 1.
+N9, 2, -1.
+MasterX, 2, -1.
+** Constraint: X4
+*Equation
+3
+N22, 1, 1.
+N11, 1, -1.
+MasterX, 1, -1.
+** Constraint: X4-Copy
+*Equation
+3
+N22, 2, 1.
+N11, 2, -1.
+MasterX, 2, -1.
+** Constraint: Y1
+*Equation
+3
+N1, 1, 1.
+N19, 1, -1.
+MasterY, 1, -1.
+** Constraint: Y1-Copy
+*Equation
+3
+N1, 2, 1.
+N19, 2, -1.
+MasterY, 2, -1.
+** Constraint: Y2
+*Equation
+3
+N3, 1, 1.
+N23, 1, -1.
+MasterY, 1, -1.
+** Constraint: Y2-Copy
+*Equation
+3
+N3, 2, 1.
+N23, 2, -1.
+MasterY, 2, -1.
+** Constraint: Y3
+*Equation
+3
+N2, 1, 1.
+N20, 1, -1.
+MasterY, 1, -1.
+** Constraint: Y3-Copy
+*Equation
+3
+N2, 2, 1.
+N20, 2, -1.
+MasterY, 2, -1.
+** Constraint: Y4
+*Equation
+3
+N4, 1, 1.
+N24, 1, -1.
+MasterY, 1, -1.
+** Constraint: Y4-Copy
+*Equation
+3
+N4, 2, 1.
+N24, 2, -1.
+MasterY, 2, -1.
+** Constraint: Z1
+*Equation
+3
+N18, 1, 1.
+N14, 1, -1.
+MasterZ, 1, -1.
+** Constraint: Z1-Copy
+*Equation
+3
+N18, 2, 1.
+N14, 2, -1.
+MasterZ, 2, -1.
+** Constraint: Z2
+*Equation
+3
+N17, 1, 1.
+N12, 1, -1.
+MasterZ, 1, -1.
+** Constraint: Z2-Copy
+*Equation
+3
+N17, 2, 1.
+N12, 2, -1.
+MasterZ, 2, -1.
+** Constraint: Z3
+*Equation
+3
+N10, 1, 1.
+N8, 1, -1.
+MasterZ, 1, -1.
+** Constraint: Z3-Copy
+*Equation
+3
+N10, 2, 1.
+N8, 2, -1.
+MasterZ, 2, -1.
+** Constraint: Z4
+*Equation
+3
+N15, 1, 1.
+N7, 1, -1.
+MasterZ, 1, -1.
+** Constraint: Z4-Copy
+*Equation
+3
+N15, 2, 1.
+N7, 2, -1.
+MasterZ, 2, -1.

@@ -1,0 +1,62 @@
+*End Instance
+**
+*Node 
+1000,           4,           0,           0 
+*Nset, nset=MasterX
+1000,  
+*Node 
+2000,           0,           4,           0
+*Nset, nset=MasterY 
+2000,  
+*Node 
+3000,           0,           0,           4 
+*Nset, nset=MasterZ 
+3000,  
+*Nset, nset=N1, instance=Part-1-1
+ 21,
+*Nset, nset=N2, instance=Part-1-1
+ 20,
+*Nset, nset=N3, instance=Part-1-1
+ 14,
+*Nset, nset=N4, instance=Part-1-1
+ 15,
+*Nset, nset=N5, instance=Part-1-1
+ 24,
+*Nset, nset=N6, instance=Part-1-1
+ 23,
+*Nset, nset=N7, instance=Part-1-1
+ 18,
+*Nset, nset=N8, instance=Part-1-1
+ 19,
+*Nset, nset=N9, instance=Part-1-1
+ 22,
+*Nset, nset=N10, instance=Part-1-1
+ 13,
+*Nset, nset=N11, instance=Part-1-1
+ 17,
+*Nset, nset=N12, instance=Part-1-1
+ 12,
+*Nset, nset=N13, instance=Part-1-1
+ 9,
+*Nset, nset=N14, instance=Part-1-1
+ 10,
+*Nset, nset=N15, instance=Part-1-1
+ 16,
+*Nset, nset=N16, instance=Part-1-1
+ 11,
+*Nset, nset=N17, instance=Part-1-1
+ 5,
+*Nset, nset=N18, instance=Part-1-1
+ 4,
+*Nset, nset=N19, instance=Part-1-1
+ 7,
+*Nset, nset=N20, instance=Part-1-1
+ 8,
+*Nset, nset=N21, instance=Part-1-1
+ 3,
+*Nset, nset=N22, instance=Part-1-1
+ 2,
+*Nset, nset=N23, instance=Part-1-1
+ 6,
+*Nset, nset=N24, instance=Part-1-1
+ 1,

@@ -1,0 +1,263 @@
+*Nset, nset=Wire-1-Set-3
+  2,  7, 10, 11, 14
+*Elset, elset=Wire-1-Set-3
+ 14, 22, 23, 35
+*Nset, nset=Wire-1-Vertex-5
+  2, 11
+*Nset, nset=Wire-1-Vertex-6
+  7, 10, 11, 14
+*Nset, nset=Wire-2-Set-3
+  4,  5,  8,  9, 13
+*Elset, elset=Wire-2-Set-3
+  4,  9, 10, 26
+*Nset, nset=Wire-2-Vertex-3
+  4, 13
+*Nset, nset=Wire-2-Vertex-4
+ 4, 5, 8, 9
+*Nset, nset=Wire-3-Set-2
+  5,  9, 10, 12, 14
+*Elset, elset=Wire-3-Set-2
+ 20, 21, 29, 33
+*Nset, nset=Wire-3-Vertex-3
+  9, 12, 14
+*Nset, nset=Wire-3-Vertex-4
+  5, 10, 12
+*Nset, nset=Wire-4-Vertex-1
+ 2, 9
+*Nset, nset=Wire-4-Vertex-2
+  8, 13
+*Nset, nset=Wire-4-Set-2
+  2,  3,  7,  8, 13
+*Elset, elset=Wire-4-Set-2
+  2,  7,  8, 24
+*Nset, nset=Wire-4-Vertex-3
+ 2, 3
+*Nset, nset=Wire-4-Vertex-4
+  3,  7,  8, 13
+*Nset, nset=Wire-5-Set-1
+  1,  4,  6, 11
+*Elset, elset=Wire-5-Set-1
+ 19, 25, 31, 32
+*Nset, nset=Wire-5-Vertex-1
+  1,  4,  6, 11
+*Nset, nset=Wire-5-Vertex-2
+  1,  4,  6, 11
+*Nset, nset=Wire-6-Set-1
+  1,  3,  4,  6, 11
+*Elset, elset=Wire-6-Set-1
+  3, 15, 16, 34
+*Nset, nset=Wire-6-Vertex-1
+ 3,
+*Nset, nset=Wire-6-Vertex-2
+  1,  4,  6, 11
+*Nset, nset=Wire-7-Set-1
+  1,  4,  6, 11, 12
+*Elset, elset=Wire-7-Set-1
+ 17, 18, 30, 36
+*Nset, nset=Wire-7-Vertex-1
+ 12,
+*Nset, nset=Wire-7-Vertex-2
+  1,  4,  6, 11
+*Nset, nset=Wire-8-Set-1
+  5,  6,  7, 13, 14
+*Elset, elset=Wire-8-Set-1
+  5,  6, 27, 28
+*Nset, nset=Wire-8-Vertex-1
+ 6, 7
+*Nset, nset=Wire-8-Vertex-2
+  5,  6, 13, 14
+*Nset, nset=Wire-9-Set-1
+  1,  2,  8,  9, 10
+*Elset, elset=Wire-9-Set-1
+  1, 11, 12, 13
+*Nset, nset=Wire-9-Vertex-1
+ 1, 8
+*Nset, nset=Wire-9-Vertex-2
+  1,  2,  9, 10
+*Nset, nset=Set1
+ 11, 14
+*Elset, elset=Set1
+ 35,
+*Nset, nset=Set2
+ 10, 11
+*Elset, elset=Set2
+ 22,
+*Nset, nset=Set3
+  2, 11
+*Elset, elset=Set3
+ 14,
+*Nset, nset=Set4
+  7, 11
+*Elset, elset=Set4
+ 23,
+*Nset, nset=Set5
+  3, 11
+*Elset, elset=Set5
+ 34,
+*Nset, nset=Set6
+  1, 11
+*Elset, elset=Set6
+ 19,
+*Nset, nset=Set7
+  6, 11
+*Elset, elset=Set7
+ 32,
+*Nset, nset=Set8
+ 11, 12
+*Elset, elset=Set8
+ 18,
+*Nset, nset=Set9
+  1, 10
+*Elset, elset=Set9
+ 12,
+*Nset, nset=Set10
+ 10, 12
+*Elset, elset=Set10
+ 21,
+*Nset, nset=Set11
+  6, 14
+*Elset, elset=Set11
+ 28,
+*Nset, nset=Set12
+ 12, 14
+*Elset, elset=Set12
+ 29,
+*Nset, nset=Set13
+  1, 12
+*Elset, elset=Set13
+ 36,
+*Nset, nset=Set14
+ 1, 9
+*Elset, elset=Set14
+ 11,
+*Nset, nset=Set15
+ 1, 8
+*Elset, elset=Set15
+ 13,
+*Nset, nset=Set16
+ 1, 4
+*Elset, elset=Set16
+ 25,
+*Nset, nset=Set17
+ 1, 3
+*Elset, elset=Set17
+ 15,
+*Nset, nset=Set18
+ 1, 2
+*Elset, elset=Set18
+ 1,
+*Nset, nset=Set19
+ 2, 3
+*Elset, elset=Set19
+ 2,
+*Nset, nset=Set20
+ 4, 8
+*Elset, elset=Set20
+ 9,
+*Nset, nset=Set21
+ 3, 8
+*Elset, elset=Set21
+ 8,
+*Nset, nset=Set22
+  3, 13
+*Elset, elset=Set22
+ 24,
+*Nset, nset=Set23
+  4, 13
+*Elset, elset=Set23
+ 26,
+*Nset, nset=Set24
+  6, 13
+*Elset, elset=Set24
+ 27,
+*Nset, nset=Set25
+ 4, 5
+*Elset, elset=Set25
+ 4,
+*Nset, nset=Set26
+ 5, 6
+*Elset, elset=Set26
+ 5,
+*Nset, nset=Set28
+  6, 12
+*Elset, elset=Set28
+ 17,
+*Nset, nset=Set29
+  4, 12
+*Elset, elset=Set29
+ 30,
+*Nset, nset=Set30
+  9, 12
+*Elset, elset=Set30
+ 33,
+*Nset, nset=Set31
+ 4, 9
+*Elset, elset=Set31
+ 10,
+*Nset, nset=Set32
+ 4, 6
+*Elset, elset=Set32
+ 31,
+*Nset, nset=Set33
+ 6, 7
+*Elset, elset=Set33
+ 6,
+*Nset, nset=Set34
+ 3, 7
+*Elset, elset=Set34
+ 7,
+*Nset, nset=Set35
+ 3, 6
+*Elset, elset=Set35
+ 16,
+*Nset, nset=Set36
+ 3, 4
+*Elset, elset=Set36
+ 3,
+*Nset, nset=XMax
+  5,  6,  7, 13, 14
+*Nset, nset=XMin
+  1,  2,  8,  9, 10
+*Nset, nset=YMin
+  5,  9, 10, 12, 14
+*Nset, nset=YMax
+  2,  3,  7,  8, 13
+*Nset, nset=ZMax
+  2,  7, 10, 11, 14
+*Nset, nset=ZMin
+  4,  5,  8,  9, 13
+*Nset, nset=N1
+ 10,
+*Nset, nset=N2
+ 14,
+*Nset, nset=N3
+ 11,
+*Nset, nset=N4
+ 2,
+*Nset, nset=N10
+ 7,
+*Nset, nset=N5
+ 9,
+*Nset, nset=N8
+ 6,
+*Nset, nset=N7
+ 5,
+*Nset, nset=N9
+ 13,
+*Nset, nset=N11
+ 3,
+*Nset, nset=N12
+ 8,
+*Nset, nset=N13
+ 1,
+*Nset, nset=N14
+ 4,
+*Nset, nset=N6
+ 12,
+*Nset, nset=Set27
+  5, 12
+*Elset, elset=Set27
+ 20,
+*Orientation, name=Ori-1
+1., 0., 0., 0., 1., 0.
+1, 0.

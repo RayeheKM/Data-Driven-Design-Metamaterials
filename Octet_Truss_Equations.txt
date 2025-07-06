@@ -1,0 +1,147 @@
+** Constraint: Constraint-1
+*Equation
+4
+N2, 1, 1.
+N1, 1, -1.
+N7, 1, -1.
+N5, 1, 1.
+** Constraint: Constraint-1-Copy
+*Equation
+4
+N2, 2, 1.
+N1, 2, -1.
+N7, 2, -1.
+N5, 2, 1.
+** Constraint: Constraint-1-Copy-Copy
+*Equation
+4
+N2, 3, 1.
+N1, 3, -1.
+N7, 3, -1.
+N5, 3, 1.
+** Constraint: Constraint-2
+*Equation
+4
+N8, 1, 1.
+N13, 1, -1.
+N7, 1, -1.
+N5, 1, 1.
+** Constraint: Constraint-2-Copy
+*Equation
+4
+N8, 2, 1.
+N13, 2, -1.
+N7, 2, -1.
+N5, 2, 1.
+** Constraint: Constraint-2-Copy-Copy
+*Equation
+4
+N8, 3, 1.
+N13, 3, -1.
+N7, 3, -1.
+N5, 3, 1.
+** Constraint: Constraint-3
+*Equation
+4
+N10, 1, 1.
+N4, 1, -1.
+N7, 1, -1.
+N5, 1, 1.
+** Constraint: Constraint-3-Copy
+*Equation
+4
+N10, 2, 1.
+N4, 2, -1.
+N7, 2, -1.
+N5, 2, 1.
+** Constraint: Constraint-3-Copy-Copy
+*Equation
+4
+N10, 3, 1.
+N4, 3, -1.
+N7, 3, -1.
+N5, 3, 1.
+** Constraint: Constraint-4
+*Equation
+4
+N9, 1, 1.
+N12, 1, -1.
+N7, 1, -1.
+N5, 1, 1.
+** Constraint: Constraint-4-Copy
+*Equation
+4
+N9, 2, 1.
+N12, 2, -1.
+N7, 2, -1.
+N5, 2, 1.
+** Constraint: Constraint-4-Copy-Copy
+*Equation
+4
+N9, 3, 1.
+N12, 3, -1.
+N7, 3, -1.
+N5, 3, 1.
+** Constraint: Constraint-5
+*Equation
+4
+N4, 1, 1.
+N1, 1, -1.
+N12, 1, -1.
+N5, 1, 1.
+** Constraint: Constraint-5-Copy
+*Equation
+4
+N4, 2, 1.
+N1, 2, -1.
+N12, 2, -1.
+N5, 2, 1.
+** Constraint: Constraint-5-Copy-Copy
+*Equation
+4
+N4, 3, 1.
+N1, 3, -1.
+N12, 3, -1.
+N5, 3, 1.
+** Constraint: Constraint-6
+*Equation
+4
+N11, 1, 1.
+N6, 1, -1.
+N12, 1, -1.
+N5, 1, 1.
+** Constraint: Constraint-6-Copy
+*Equation
+4
+N11, 2, 1.
+N6, 2, -1.
+N12, 2, -1.
+N5, 2, 1.
+** Constraint: Constraint-6-Copy-Copy
+*Equation
+4
+N11, 3, 1.
+N6, 3, -1.
+N12, 3, -1.
+N5, 3, 1.
+** Constraint: Constraint-7
+*Equation
+4
+N3, 1, 1.
+N14, 1, -1.
+N1, 1, -1.
+N5, 1, 1.
+** Constraint: Constraint-7-Copy
+*Equation
+4
+N3, 2, 1.
+N14, 2, -1.
+N1, 2, -1.
+N5, 2, 1.
+** Constraint: Constraint-7-Copy-Copy
+*Equation
+4
+N3, 3, 1.
+N14, 3, -1.
+N1, 3, -1.
+N5, 3, 1.
